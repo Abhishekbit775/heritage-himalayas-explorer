@@ -23,7 +23,7 @@ const monasteries = [
     image: encheyImage,
     description: "Perched on a hilltop above Gangtok, this serene monastery offers panoramic views and houses precious manuscripts and artifacts.",
     toursCount: 5,
-    rating: 4.7,
+    rating: 4.6,
   },
   {
     id: "pemayangtse",
